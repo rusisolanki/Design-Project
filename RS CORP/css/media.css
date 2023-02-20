@@ -1,0 +1,352 @@
+@media only screen and (max-width: 1170px) {
+  li.nav-item.aboutlink {
+    padding: 0 25px 0 20px;
+  }
+
+  .navbar-brand img {
+    max-width: 170px;
+  }
+
+  .header-socialmedia li {
+    padding: 0 5px;
+  }
+
+  a.nav-link {
+    font-size: 15px;
+  }
+
+  li.nav-item {
+    padding: 0 15px;
+  }
+
+  #herosection {
+    padding: 4em 0;
+  }
+
+  h1 {
+    font-size: 60px;
+  }
+
+  .page_title h2 {
+    font-size: 38px;
+  }
+
+  .page_title h2:after {
+    height: 10px;
+  }
+
+  .carousel-control-next {
+    right: -20px;
+  }
+
+  .carousel-control-prev {
+    left: -20px;
+  }
+
+  p.card-text {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .card-body a img {
+    max-width: 20px;
+    width: 100%;
+    vertical-align: sub;
+  }
+
+  h4 {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .navbar-toggler {
+    background-color: #e1e1e1;
+    border: none !important;
+  }
+
+
+  li.nav-item.aboutlink {
+    padding: 10px 0;
+  }
+
+  li.nav-item {
+    border-bottom: 1px solid #262161;
+    padding: 10px 0;
+  }
+
+  a.nav-link {
+    font-size: 16px;
+    height: auto;
+    line-height: normal;
+  }
+
+  .header-socialmedia {
+    padding: 20px 0;
+  }
+
+  ul.navbar-nav {
+    padding-top: 20px;
+  }
+
+  li.aboutlink {
+    display: none;
+  }
+
+  li.nav-item.dropdown {
+    display: block;
+  }
+
+  .dropdown-menu {
+    background-color: #dbecf4;
+    border: 0;
+    border-radius: 0;
+  }
+
+  h1 {
+    font-size: 50px;
+  }
+
+  a.footer_logo img {
+    max-width: 150px;
+  }
+
+  .footer_contact p,
+  p.copy_text {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .about_img img {
+    max-width: 330px;
+    width: 100%;
+  }
+
+  h4 {
+    font-size: 20px;
+  }
+
+  .location_service li {
+    font-size: 14px;
+    padding: 5px 0;
+  }
+
+  .location_service {
+    padding: 10px;
+  }
+
+  .teambox {
+    align-items: start !important;
+  }
+
+  .teamtext p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .gallerytab .nav-tabs .nav-link {
+    margin-bottom: 0;
+    font-size: 16px;
+    padding: 7px 10px 5px;
+  }
+
+  .gallerytab li.nav-item {
+    border-bottom: 0;
+    padding: 0px 2px 15px;
+  }
+
+  .gallerytab .tab_contact img {
+    height: 200px;
+  }
+
+  .back p {
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 500;
+    width: 90%;
+  }
+
+  .flipcard img {
+    max-width: 85%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  h1 {
+    font-size: 38px;
+    line-height: 58px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  h4 {
+    font-size: 18px;
+  }
+
+  #herosection {
+    padding: 2em 0;
+  }
+
+  .navbar-brand img {
+    max-width: 130px;
+  }
+
+  .navbar {
+    padding: 5px 0;
+  }
+
+  .page_title h2 {
+    font-size: 30px;
+  }
+
+  .page_title h2:after {
+    height: 8px;
+  }
+
+  .extracol {
+    display: none;
+  }
+
+  .desktopfooter {
+    display: none;
+  }
+
+  #mobilefooter {
+    display: block;
+    text-align: center;
+  }
+
+  a.footer_logo img {
+    max-width: 100px;
+  }
+
+  .footer_contact {
+    padding: 10px 0 20px;
+  }
+
+  .footer_contact p,
+  p.copy_text {
+    margin: 10px 0 0;
+  }
+
+  ul.footer_social {
+    margin: 0 0 20px;
+  }
+
+  section#aboutsection,
+  section#messagesection,
+  section#missionsection,
+  section#newssection,
+  section#portfoliosection,
+  #fastSignsection,
+  #dogtopiasection,
+  #lubesection,
+  section#gallerysection,
+  section#teamsection,
+  section#contactsection {
+    margin: 0 !important;
+    padding: 30px 0 !important;
+  }
+
+  section#messagesection .page_title h2,
+  #missionpage .page_title h2,
+  section#newssection .page_title h2 {
+    font-size: 22px;
+  }
+
+  section#messagesection .page_title h2:after,
+  #missionpage .page_title h2:after,
+  section#newssection .page_title h2:after {
+    height: 6px;
+  }
+
+  .quotebox h5 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .quotebox {
+    padding: 1em 2em;
+    margin-bottom: 30px !important;
+  }
+
+  .quotebox h5:before,
+  .quotebox h5:after {
+    width: 30px;
+    height: 24px;
+  }
+
+  section#newssection .page_title {
+    margin-bottom: 0 !important;
+  }
+
+  .carousel {
+    margin: 0 !important;
+  }
+
+  .mobileslider {
+    display: block;
+  }
+
+  .desktopslider {
+    display: none;
+  }
+
+  section#newssection {
+    padding-bottom: 90px !important;
+  }
+
+  ul.contactdetail {
+    margin: 0;
+  }
+
+  ul.contactdetail li span {
+    font-size: 18px;
+  }
+
+  ul.contactdetail li img {
+    max-width: 30px;
+    margin-right: 15px;
+  }
+
+  .flipcard {
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    height: 400px;
+  }
+
+  .gallerytab .nav-tabs .nav-link {
+    margin-bottom: 0;
+    font-size: 13px;
+    padding: 7px 5px 5px;
+  }
+
+  .gallerytab li.nav-item {
+    border-bottom: 0;
+    padding: 0px 2px 15px;
+  }
+
+  .gallerytab .tab_contact img {
+    height: 200px;
+  }
+
+  .back p {
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 19px;
+    width: 100%;
+    margin: 0 auto 5px;
+  }
+
+  .flip-card-front img {
+    width: 80%;
+  }
+}
